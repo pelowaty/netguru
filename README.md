@@ -1,7 +1,7 @@
 # netguru
 
 1. Download node.js from https://nodejs.org/en/ an install it.
-2. Create 'pela_test' folder on 'C:\Users\*current user*' and go there by 'cd' command.
+2. Create 'pela_test' folder on 'C:\Users\*current user*\' and go there by 'cd' command.
 3. Open 'Node.js command prompt' and execute commands:
 	- 'npm init -y'
 	- 'npm install nightwatch --save-dev'
